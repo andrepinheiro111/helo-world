@@ -1,2 +1,0 @@
-# helo-world
-first repository
